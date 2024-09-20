@@ -11,6 +11,7 @@
 
 ### Guides & Resources 📖
 
+- **Hyperliquid API Guide**: connecting to the API, fetching market data, placing a limit order, and checking order status [this guide](https://github.com/CryptoGUG/hyperliquid-api)🛠️.
 - **0g Node Setup Guide**: Learn how to set up your own 0g Node by following [this guide](https://github.com/CryptoGUG/guides/blob/main/0gNode.md) 🛠️.
 - **Warden Node Setup Guide**: Secure your Warden Network with Node by following [this guide](https://github.com/CryptoGUG/guides/blob/main/wardenNode.md) 🔧.
 
